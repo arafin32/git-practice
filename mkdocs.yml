@@ -1,0 +1,22 @@
+site_name: Git & GitHub Definitive Guide
+repo_url: https://github.com/arafin32/git-practice
+nav:
+  - Home: index.md
+  - Lessons:
+      - Introduction: lessons/00-introduction.md
+      - Getting Started: lessons/01-getting-started.md
+      - Git Basics: lessons/02-git-basics.md
+      - Branching & Merging: lessons/03-branching-merging.md
+      - Remote Repositories: lessons/04-remotes.md
+      - Advanced Git: lessons/05-advanced.md
+      - GitHub Workflows: lessons/06-github-workflows.md
+      - Advanced Topics: lessons/07-advanced-topics.md
+  - Exercises: exercises/README.md
+  - Resources: README.md
+  - Contributors: CONTRIBUTORS.md
+  - Security: SECURITY.md
+  - Badges: BADGES.md
+  - Release Notes: RELEASE-NOTES-v1.0.0.md
+  - Contributing: CONTRIBUTING.md
+  - Code of Conduct: CODE_OF_CONDUCT.md
+  - License: LICENSE
