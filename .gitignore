@@ -1,0 +1,6 @@
+# Example: .gitignore
+
+# Ignore node_modules and log files
+node_modules/
+*.log
+.DS_Store

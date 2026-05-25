@@ -1,0 +1,4 @@
+# Example: .gitattributes
+
+*.md text
+*.sh text eol=lf
